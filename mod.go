@@ -4,3 +4,7 @@ package vers
 func HelloV2() string {
 	return "hello"
 }
+
+func Bye() string {
+	return "bye"
+}
